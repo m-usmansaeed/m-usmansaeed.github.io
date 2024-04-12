@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fd814b8f.css",
-    "main.js": "/static/js/main.77e0a49e.js",
+    "main.js": "/static/js/main.c1a416db.js",
     "static/media/project3.jpg": "/static/media/project3.2f53c8755bddba1767f6.jpg",
     "static/media/project2.jpg": "/static/media/project2.5c2760fa6e20375e7599.jpg",
     "static/media/project8.jpg": "/static/media/project8.0f94b46e5d26adcbdcb2.jpg",
@@ -14,17 +14,20 @@
     "static/media/HeroImage.jpg": "/static/media/HeroImage.a4274da32bc727cd507c.jpg",
     "static/media/project6.jpg": "/static/media/project6.d9dc8b907fdb2911ca91.jpg",
     "static/media/project4.jpg": "/static/media/project4.84b598ef271d6edc4137.jpg",
-    "static/media/skype-icon.svg": "/static/media/skype-icon.3c7541c02fda7c9a78d97fb62dce1973.svg",
+    "static/media/website-icon.svg": "/static/media/website-icon.7312e302ef7abac02b78270f9c692550.svg",
+    "static/media/skype-icon.svg": "/static/media/skype-icon.d88424f42c675db62666f74d46435f3e.svg",
+    "static/media/location-icon.svg": "/static/media/location-icon.af647cfe12b50e002393a5a4ac18c962.svg",
     "static/media/swift_icon.svg": "/static/media/swift_icon.f0f4cccceeb412ebbe5124e93e8bc94d.svg",
+    "static/media/phone-icon.svg": "/static/media/phone-icon.9dcedfcf41b0c60523cdd5fb190d590d.svg",
     "index.html": "/index.html",
     "static/media/upwork-icon.svg": "/static/media/upwork-icon.816941b20f0f4ce2c159822f08a089ee.svg",
     "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.0b9aabd6ff9747f7a9f2cb743fd8ace1.svg",
     "static/media/freelancer-icon.svg": "/static/media/freelancer-icon.6abf3daef1076e944f75ade5e7086a7e.svg",
     "main.fd814b8f.css.map": "/static/css/main.fd814b8f.css.map",
-    "main.77e0a49e.js.map": "/static/js/main.77e0a49e.js.map"
+    "main.c1a416db.js.map": "/static/js/main.c1a416db.js.map"
   },
   "entrypoints": [
     "static/css/main.fd814b8f.css",
-    "static/js/main.77e0a49e.js"
+    "static/js/main.c1a416db.js"
   ]
 }
